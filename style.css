@@ -1,0 +1,41 @@
+.ngaran {
+  border: solid 1px #c3c3c3;
+  background-color: lightgoldenrodyellow;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  padding: 8px;
+  border-radius: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+.eusi {
+  padding: 50px;
+  border: solid 1px blue;
+  background-color: rgb(112, 166, 216);
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-weight: bolder;
+}
+
+body {
+  background-image: url("box.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div {
+  padding: 50px;
+  width: 90%;
+  height: 50px;
+  background-image: url("box.jpg");
+  background-size: cover;
+  border: 1px solid red;
+}
